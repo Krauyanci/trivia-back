@@ -7,6 +7,7 @@ const namedb = process.env.NAMEDB
 
 const url = `mongodb+srv://${userdb}:${passdb}@${hostdb}/${namedb}`
 
+
 const connection = async () => {
     try {
         await mongoose.connect(url)
