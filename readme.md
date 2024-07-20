@@ -16,6 +16,7 @@ Welcome to the Trivia Back repository! This project is designed to provide a bac
 - Node.js
 - npm
 - MongoDB
+-Azure
 
 ### Installation
 
